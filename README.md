@@ -1,18 +1,12 @@
 # GEOG59950 Programming for Geographical Information Analysis: Core Skills
-
-Contact: F.L.Pontin@leeds.ac.uk
- 
-
-## Materials for GEOG5990M
-
 All material created & developed by Dr Fran Pontin
 
-Email:F.L.Pontin@leeds.ac.uk,
+Contact: F.L.Pontin@leeds.ac.uk,
 
 ## Course Timetable & Content
 
 | **Teaching Week** | **Date** | **Content** | **Assessment** |
-| ---- | ---- | ---- | ---- |
+| :----: | :----: | ---- | :----: |
 | 14 | 30/01/2024 | Module Overview: What is programming? Why Python? Python UIs, Getting Python Installed | - |
 |  | 02/02/2024 | Friday drop-in | - |
 | 15 | 06/02/2024 | Python data types and dealing with errors | - |
@@ -42,4 +36,4 @@ Email:F.L.Pontin@leeds.ac.uk,
 
 Notebooks for each teaching week will be added to the notebooks folder on a weekly basis. Materials might appear in the folder in advanced but content may be altered up to the date of delivery. All materials will also be available on Minerva 
 
-
+#### Assignment templates can be found in the notebooks folder
