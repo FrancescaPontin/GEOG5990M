@@ -37,3 +37,9 @@ Contact: F.L.Pontin@leeds.ac.uk,
 Notebooks for each teaching week will be added to the notebooks folder on a weekly basis. Materials might appear in the folder in advanced but content may be altered up to the date of delivery. All materials will also be available on Minerva 
 
 #### Assignment templates can be found in the notebooks folder
+
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">GEOG59950 Programming for Geographical Information Analysis: Core Skills</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://orcid.org/0000-0002-7143-8718" property="cc:attributionName" rel="cc:attributionURL">Francesca Pontin</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
