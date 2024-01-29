@@ -1,44 +1,45 @@
-# GEOG5995M Programming for Social Science
+# GEOG59950 Programming for Geographical Information Analysis: Core Skills
+
+Contact: F.L.Pontin@leeds.ac.uk
  
-Binder link: 
 
-## Materials for GEOG5995M
+## Materials for GEOG5990M
 
-All material created & developed by Fran Pontin & Ryan Urqhart
+All material created & developed by Dr Fran Pontin
 
 Email:F.L.Pontin@leeds.ac.uk,
 
-## Course timetable & Content
+## Course Timetable & Content
+
+| **Teaching Week** | **Date** | **Content** | **Assessment** |
+| ---- | ---- | ---- | ---- |
+| 14 | 30/01/2024 | Module Overview: What is programming? Why Python? Python UIs, Getting Python Installed | - |
+|  | 02/02/2024 | Friday drop-in | - |
+| 15 | 06/02/2024 | Python data types and dealing with errors | - |
+|  | 09/02/2024 | Friday drop-in | - |
+| 16 | 13/02/2023 | Functions, Modules and Packages, Installing packages and using environments | - |
+|  | 16/02/2024 | Friday drop-in | - |
+| 17 | 20/02/2024 | Using and exploring data - data cleaning | - |
+|  | 23/02/2024 | Friday drop-in | - |
+| 18 | 27/02/2024 | Effective data visualisation using Python | - |
+|  | 01/03/2024 | Friday drop-in | - |
+| 19 | 05/03/2024 | Python as a GIS | - |
+|  | 09/03/2024 | Friday drop-in | - |
+| 20 | 12/03/2024 | Spatial Data Analysis in Python | - |
+|  | 15/02/2024 | Friday drop-in | - |
+| 21 | 19/03/2024 | Open Spatial data science: reproducibility, finding data (1) | Portfolio due 27/03/2024 |
+|  | 22/03/2024 | Friday drop-in | - |
+| *Easter* | *22/03/2024-24/04/2024* |  | Portfolio feedback by 19/04/2024 |
+| 22 | 23/04/2024 | Introduction to the Final Project. Open Spatial data science: reproducibility, finding data (2) | - |
+|  | 26/04/2024 | Friday drop-in | - |
+| 23 | 30/04/2024 | Supported assignment time, module recap | - |
+|  | 03/05/2024 | Friday drop-in | - |
+| 24 | 07/05/2024 | Supported assignment time, module recap | Final Assessment due 17/05/2024 |
+|  | 10/05/2024 | Friday drop-in |  |
 
 
-## Day 1:Using and exploring data in Python
+## Materials
 
-- What is programming  
-- About Python as a coding language 
-- Packages, modules etc. 
-- User interfaces 
-- Errors 
-- Data types (cheat sheet) 
-- Importing packages 
-- Reading in data (CSV) 
-- Exploring data frames 
-- Data summarisation  
-- Data cleaning 
-
-
-## Day 2: Data Visualisation,manipulation,statistical analysis and modelling
-
-- Why visualise data? 
-- Different visualisations 
-- Matplotlib and Seaborn  
-- Grammar of graphics 
-- Editing graphics 
-- Grouping data to apply functions 
-- Considering how we handle different data types differently 
-- Time series data 
-- OLS regression 
-- Generalised linear models (for count outcomes) 
-
-## Day 3: Python as a GIS
+Notebooks for each teaching week will be added to the notebooks folder on a weekly basis. Materials might appear in the folder in advanced but content may be altered up to the date of delivery. All materials will also be available on Minerva 
 
 
