@@ -19,3 +19,7 @@ dependencies:
   - geoplot
   - folium
   - packaging
+  - seaborn
+  - plotly
+  - statsmodels
+  - scikit-learn
