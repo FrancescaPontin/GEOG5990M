@@ -11,11 +11,11 @@ Contact: F.L.Pontin@leeds.ac.uk,
 |  | 02/02/2024 | Friday drop-in | - |
 | 15 | 06/02/2024 | Python data types and dealing with errors | - |
 |  | 09/02/2024 | Friday drop-in | - |
-| 16 | 13/02/2023 | Functions, Modules and Packages, Installing packages and using environments | - |
+| 16 | 13/02/2023 | Using and exploring data - data cleaning | - |
 |  | 16/02/2024 | Friday drop-in | - |
-| 17 | 20/02/2024 | Using and exploring data - data cleaning | - |
+| 17 | 20/02/2024 | Effective data visualisation using Python | - |
 |  | 23/02/2024 | Friday drop-in | - |
-| 18 | 27/02/2024 | Effective data visualisation using Python | - |
+| 18 | 27/02/2024 | Putting it into practice | - |
 |  | 01/03/2024 | Friday drop-in | - |
 | 19 | 05/03/2024 | Python as a GIS | - |
 |  | 09/03/2024 | Friday drop-in | - |
