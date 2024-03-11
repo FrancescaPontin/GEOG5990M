@@ -1,10 +1,10 @@
 .ipynb_checkpoints
 .DS_Store
 *.pyc
-!data/
+
 !data/processed/
 data/processed/*
 data/raw/*
 !data/processed/efdi_variables_for_ppfi.csv
-data/*
+
 priority_places_index_created*
