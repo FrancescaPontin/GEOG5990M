@@ -30,7 +30,8 @@ Contact: F.L.Pontin@leeds.ac.uk,
 | 23 | 29/04/2025 | Supported assignment time, module recap (if needed) | - |
 |  | 02/05/2025 | Friday drop-in | - |
 | 24 | 06/05/2025 | Supported assignment time, module recap (if needed) | Final Assessment due 2pm 13/05/2024 |
-|  | 09/05/2025 | Friday drop-in | - |: Overview {.striped .hover tbl-colwidths="[5,10,35,20]"}
+|  | 09/05/2025 | Friday drop-in | - |
+
 
 ## Materials
 
