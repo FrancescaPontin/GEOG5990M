@@ -23,13 +23,11 @@ Contact: F.L.Pontin@leeds.ac.uk,
 |  | 14/03/2025 | Friday drop-in | - |
 | 21 | 18/03/2025 | Open Spatial data science: reproducibility, finding data (1) | - |
 |  | 21/03/2025 | Friday drop-in | - |
-| 22 | 25/03/2025 | Introduction to the Final Project. Open Spatial data science: reproducibility, finding data (2) | Portfolio due 2pm 25/03/2024  |
+| 22 | 25/03/2025 | Introduction to the Final Project. Open Spatial data science: reproducibility, finding data (2) | Portfolio due 2pm 25/03/2025  |
 |  | 28/03/2025 | Friday drop-in | - |
-| *Easter* | *29/03/2025-27/04/2024* | |Portfolio feedback by 15/04/2024 |
+| *Easter* | *29/03/2025-27/04/2024* | |Portfolio feedback by 15/04/2025 |
 | 23 | 29/04/2025 | Supported assignment time, module recap (if needed) | - |
-|  | 02/05/2025 | Friday drop-in | - |
-| 24 | 06/05/2025 | Supported assignment time, module recap (if needed) | Final Assessment due 2pm 13/05/2024 |
-|  | 09/05/2025 | Friday drop-in | - |
+|  | 02/05/2025 | Friday drop-in | Final Assessment due 2pm 13/05/2025 |
 
 
 ## Materials
