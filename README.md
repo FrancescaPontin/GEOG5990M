@@ -32,11 +32,11 @@ Contact: F.L.Pontin@leeds.ac.uk,
 
 ## Materials
 
-Notebooks for each teaching week will all be available from the start of the module. All materials will also be available on Minerva. 
+- Notebooks for each teaching week will all be available from the start of the module. All materials will also be available on Minerva. 
 
-Support in the practical sessions will only focus on the new content for that week and supporting with querries from previous weeks.
+- Support in the practical sessions will only focus on the new content for that week and supporting with querries from previous weeks.
 
-Notebook and course materials might appear in the GitHub repo. and Minerva folders in advanced but content may be altered up to the date of delivery.  
+- Notebook and course materials might appear in the GitHub repo. and Minerva folders in advanced but content may be altered up to the date of delivery.  
 
 #### Assignment templates can be found in the notebooks folder
 
