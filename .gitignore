@@ -8,3 +8,11 @@ data/raw/*
 !data/processed/efdi_variables_for_ppfi.csv
 
 priority_places_index_created*
+
+*.lib
+*.libs
+!text.lib
+*.css
+*.js
+*.woff
+*.html
