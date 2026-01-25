@@ -8,27 +8,27 @@ Contact: F.L.Pontin\@leeds.ac.uk,
 
 | **Teaching Week** | **Date** | **Content** | **Assessment** |
 |:---------:|:-----------:|----------------------------------|:---------------------:|
-| 14 | 28/01/2025 | **Week 1:** Getting started with Python | \- |
-|  | 31/01/2025 | Friday drop-in | \- |
-| 15 | 04/02/2025 | **Week 2:** Python data types and dealing with errors | \- |
-|  | 07/02/2025 | Friday drop-in | \- |
-| 16 | 10/02/2025 | **Week 3:** Using and exploring data - data cleaning | \- |
-|  | 14/02/2025 | Friday drop-in | \- |
-| 17 | 18/02/2025 | **Week 4:** Effective data visualisation using Python | \- |
-|  | 21/02/2025 | Friday drop-in | \- |
-| 18 | 25/02/2025 | **Week 5:** Putting it into practice | \- |
-|  | 28/02/2025 | Friday drop-in | \- |
-| 19 | 04/03/2025 | **Week 6:** Python as a GIS | \- |
-|  | 07/03/2025 | Friday drop-in | \- |
-| 20 | 11/03/2025 | **Week 7:** Spatial Data Analysis in Python | \- |
-|  | 14/03/2025 | Friday drop-in | \- |
-| 21 | 18/03/2025 | W**eek 8:** Open Spatial data science: reproducibility, finding data (1) | \- |
-|  | 21/03/2025 | Friday drop-in | \- |
-| 22 | 25/03/2025 | **Week 9:** Introduction to the Final Project. Open Spatial data science: reproducibility, finding data (2) | Portfolio due 2pm 25/03/2025 |
-|  | 28/03/2025 | Friday drop-in | \- |
-| *Easter* | *29/03/2025-27/04/2024* |  | Portfolio feedback by 15/04/2025 |
-| 23 | 29/04/2025 | Supported assignment time, module recap (if needed) | \- |
-|  | 02/05/2025 | Friday drop-in | Final Assessment due 2pm 13/05/2025 |
+| 14 | 27/01/2026 | **Week 1:** Getting started with Python | \- |
+|  | 30/01/2026 | Friday drop-in | \- |
+| 15 | 03/02/2026 | **Week 2:** Python data types and dealing with errors | \- |
+|  | 06/02/2026 | Friday drop-in | \- |
+| 16 | 10/02/2026 | **Week 3:** Using and exploring data - data cleaning | \- |
+|  | 13/02/2026 | Friday drop-in | \- |
+| 17 | 17/02/2026 | **Week 4:** Effective data visualisation using Python | \- |
+|  | 20/02/2026 | Friday drop-in | \- |
+| 18 | 24/02/2026 | **Week 5:** Putting it into practice | \- |
+|  | 27/02/2026 | Friday drop-in | \- |
+| 19 | 03/03/2026 | **Week 6:** Python as a GIS | \- |
+|  | 06/03/2026 | Friday drop-in | \- |
+| 20 | 10/03/2026 | **Week 7:** Spatial Data Analysis in Python | \- |
+|  | 13/03/2026 | Friday drop-in | \- |
+| 21 | 17/03/2026 | W**eek 8:** Open Spatial data science: reproducibility, finding data (1) | \- |
+|  | 20/03/2026 | Friday drop-in | \- |
+| 22 | 24/03/2026 | **Week 9:** Introduction to the Final Project. Open Spatial data science: reproducibility, finding data (2) | Portfolio due 2pm 24/03/2026 |
+|  | 27/03/2026 | Friday drop-in | \- |
+| *Easter* | *27/03/2026-27/04/2026* | Email me for assignment support/ meeting: f.l.pontin@leeds.ac.uk  | Portfolio feedback by 13/04/2026 |
+| 23 | 28/04/2026 | Supported assignment time, module recap (if needed) | \- |
+|  | 01/05/2025 | No drop-in session: Celebrate hand-in | Final Assessment due 2pm 01/05/2026 |
 
 ## Materials
 
